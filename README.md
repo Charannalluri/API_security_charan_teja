@@ -1,1 +1,3 @@
-# API_security_charan_teja
+What are the real-world consequences of exposing an API key on GitHub? Exposing a key can lead to "account takeover" where attackers exhaust your credits, resulting in massive financial charges or service outages. In a healthcare context, an attacker could potentially use your credentials to pivot into other cloud services or intercept data flowing through the API.
+
+Why does your company's privacy policy prohibit logging city names? Logging city names alongside timestamps creates a "digital breadcrumb" that could identify a patient's location. Under laws like HIPAA or the GDPR principle of Data Minimization, we must only process the minimum data necessary and avoid storing identifiable logs that aren't essential for the application's core function.
